@@ -1,13 +1,13 @@
 body {
-  background-color: #91ced4;
+  background-color: #1f555a;
 }
 body * {
   box-sizing: border-box;
 }
 
 .header {
-  background-color: #327a81;
-  color: white;
+  background-color: #23cedd;
+  color: rgb(52, 136, 57);
   font-size: 1.5em;
   padding: 1rem;
   text-align: center;
